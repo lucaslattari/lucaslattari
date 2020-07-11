@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá! 👋
+
+Em breve pretendo atualizar essa joça =) 
+
+Até lá, veja minhas coisas em youtube.com/universodiscreto, www.universodiscreto.com e twitter.com/1iversodiscreto
 
 <!--
 **lucaslattari/lucaslattari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
