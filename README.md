@@ -6,6 +6,11 @@ Meu nome é Lucas Grassano Lattari, sou professor de Ciência da Computação no
 
 Também falo muita bobeira no [Twitter](http://twitter.com/1iversodiscreto), mas isso você não precisa ver :sweat_smile:
 
+[![Blog Badge](https://img.shields.io/badge/Blog-universodiscreto.com-black)](https://universodiscreto.com/)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/universodiscreto)](https://youtube.com/c/universodiscreto)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/1iversodiscreto)](https://twitter.com/1iversodiscreto)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lattari-948b501aa/)](https://www.linkedin.com/in/lucas-lattari-948b501aa/)
+
 # Conteúdos/Projetos que recomendo!
 
 | Tópico                     |      Linguagem        | Clique para saber mais | 
